@@ -1,0 +1,15 @@
+G:\VisualStudioProject\GameWindows\bin\Debug\GameWindows.exe.config
+G:\VisualStudioProject\GameWindows\bin\Debug\GameWindows.exe
+G:\VisualStudioProject\GameWindows\bin\Debug\GameWindows.pdb
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.csproj.AssemblyReference.cache
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.Form1.resources
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.Properties.Resources.resources
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.csproj.GenerateResource.cache
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.csproj.CoreCompileInputs.cache
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.exe
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.pdb
+G:\VisualStudioProject\GameWindows\bin\Debug\Interop.WMPLib.dll
+G:\VisualStudioProject\GameWindows\bin\Debug\AxInterop.WMPLib.dll
+G:\VisualStudioProject\GameWindows\obj\Debug\Interop.WMPLib.dll
+G:\VisualStudioProject\GameWindows\obj\Debug\AxInterop.WMPLib.dll
+G:\VisualStudioProject\GameWindows\obj\Debug\GameWindows.csproj.ResolveComReference.cache
